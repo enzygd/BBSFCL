@@ -1,26 +1,16 @@
 {
     "id": 2676807,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
+    "name": "Sigma Flight",
+    "author": "N777",
     "creators": [
-        "Solo_Creator"
+        "N777"
     ],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 100,
-    "password": "46290",
+    "verifier": "N777",
+    "verification": "https://www.youtube.com/watch?v=dVaFd_rJb2A",
+    "percentToQualify": 62,
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
         }
     ]
 }
