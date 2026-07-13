@@ -1,24 +1,20 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 2488140,
+    "name": "Final Flight",
+    "author": "enzygmd, supermotti",
+    "creators": ["enzygmd,supermotti"],
+    "verifier": "enzygmd",
+    "verification": "https://youtu.be/BnbxLWeIFoA?si=7Vmoq7BxlP-CPYaJ",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "okman241",
+            "link": "https://youtu.be/PRQ8VU7Z5EU",
             "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "hz": 240
+        }
+            
         }
     ]
 }
