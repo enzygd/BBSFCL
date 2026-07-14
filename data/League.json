@@ -2,7 +2,7 @@
   "id": 2723584,
   "name": "League",
   "author": "Cache",
-  "creators": "Cache",
+  "creators": ["Cache"],
   "verifier": "Cache",
   "verification": "https://youtube.com/shorts/oIQuwpq--eU?feature=share",
   "percentToQualify": 70,
