@@ -1,1 +1,18 @@
-
+{
+    "id": 2488140,
+    "name": "God Of Thunder",
+    "author": "SheriffCache",
+    "creators": ["SheriffCache"],
+    "verifier": "SheriffCache",
+    "verification": "https://www.youtube.com/watch?v=nn0NYQn1jaI",
+    "percentToQualify": "72",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Ploobie",
+            "link": "https://m.youtube.com/watch?v=cw8YIZj3Cwg&ra=m",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
