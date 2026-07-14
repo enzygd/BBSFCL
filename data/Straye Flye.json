@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/shorts/E5s8HQDORo4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Ploobie",
+            "link": "https://m.youtube.com/watch?v=D5hg7aMBfAk&ra=m",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
