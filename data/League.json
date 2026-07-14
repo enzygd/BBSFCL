@@ -13,6 +13,12 @@
         "link": "https://m.youtube.com/watch?v=xX-dooBhY5g&ra=m",
         "percent": 100,
         "hz": 240
-      }
+      },
+      {
+          "user": "fwogreal",
+          "link": "https://www.youtube.com/watch?v=7wVSN7KcHLo",
+          "percent": 100,
+          "hz": 240
+      }  
   ]
 }
